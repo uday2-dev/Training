@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.coforge.maven_project.AppTest" time="0.01" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\Uday.Dubey\eclipse-workspace\maven-project\target\test-classes;C:\Users\Uday.Dubey\eclipse-workspace\maven-project\target\classes;C:\Users\Uday.Dubey\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="java.vm.vendor" value="ojdkbuild"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://github.com/ojdkbuild"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\Uday.Dubey\AppData\Local\Temp\surefire8195480129592888402\surefirebooter-20260227111141662_3.jar C:\Users\Uday.Dubey\AppData\Local\Temp\surefire8195480129592888402 2026-02-27T11-11-41_074-jvmRun1 surefire-20260227111141662_1tmp surefire_0-20260227111141662_2tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\Uday.Dubey\eclipse-workspace\maven-project\target\test-classes;C:\Users\Uday.Dubey\eclipse-workspace\maven-project\target\classes;C:\Users\Uday.Dubey\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Uday.Dubey"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre"/>
+    <property name="basedir" value="C:\Users\Uday.Dubey\eclipse-workspace\maven-project"/>
+    <property name="style.color" value="always"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\Uday.Dubey\AppData\Local\Temp\surefire8195480129592888402\surefirebooter-20260227111141662_3.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\resources.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\rt.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\sunrsasign.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\jsse.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\jce.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\charsets.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\jfr.jar;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_332-b09"/>
+    <property name="user.name" value="Uday.Dubey"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Uday.Dubey\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/ojdkbuild/ojdkbuild/issues"/>
+    <property name="java.io.tmpdir" value="C:\Users\UDAY~1.DUB\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_332"/>
+    <property name="user.dir" value="C:\Users\Uday.Dubey\eclipse-workspace\maven-project"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Users/Uday.Dubey/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638/jre/bin/server;C:/Users/Uday.Dubey/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.10.v20260205-0638/jre/bin;C:/Users/UDAY~1.DUB/AppData/Local/Temp/eoi38BC.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_21.0.9.v20251105-0741/jre/bin/server;C:/Users/UDAY~1.DUB/AppData/Local/Temp/eoi38BC.tmp//plugins/org.eclipse.justj.openjdk.hotspot.jre.minimal.stripped.win32.x86_64_21.0.9.v20251105-0741/jre/bin;C:\Program Files\Google\Chrome\Application;C:\Python314\Scripts\;C:\Python314\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\missioncontrol\;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\webstart\;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\bin;C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\bin;C:\Program Files\Microsoft VS Code\bin;C:\Support\MAVEN\bin;C:\Users\Uday.Dubey\AppData\Local\Microsoft\WindowsApps;C:\Support\MAVEN\bin;;C:\Users\Uday.Dubey\Downloads;;C:\Users\Uday.Dubey\Downloads;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="ojdkbuild"/>
+    <property name="java.vm.version" value="25.332-b09"/>
+    <property name="java.ext.dirs" value="C:\Program Files\ojdkbuild\java-1.8.0-openjdk-1.8.0.332-1\jre\lib\ext;C:\Windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testApp" classname="com.coforge.maven_project.AppTest" time="0.002"/>
+</testsuite>
