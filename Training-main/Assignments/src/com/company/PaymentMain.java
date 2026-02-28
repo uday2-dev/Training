@@ -2,7 +2,7 @@ package com.company;
 
 public class PaymentMain {
 	public static void main(String[] args) {
-		PaymentGateway p=new Cards("Neeku","huafu",90);
+		PaymentGateway p=new Cards("n","huafu",90);
 		p.pay();
 		p.printrecipt();
 		PaymentGateway p1=new Wallet("paytem",9890,78);
