@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+<bean id = "customer2" class = "com.coforge.beans.Customer" autowire ="byName">
+
+<property name ="cname" value="uday"></property>
+<property name ="cid" value="678"></property>
+<property name ="mobile" value="6306311274"></property>
+<property name ="email" value="uday@gmail.com"></property>
+
+
+</bean>
+
+<bean id = "address"  class = "com.coforge.beans.Address">
+
+<constructor-arg name ="houseno" value = "407"></constructor-arg>
+<constructor-arg name ="street" value = "landmark"></constructor-arg>
+<constructor-arg name ="city" value = "HYD"></constructor-arg>
+<constructor-arg name ="state" value = "Telangana"></constructor-arg>
+<constructor-arg name ="pincode" value = "208020"></constructor-arg>
+
+</bean>
+
+
+
+</beans>

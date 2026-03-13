@@ -1,0 +1,29 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- bean definitions here -->
+   <bean id = "emp" class ="com.coforge.beans.Employee" autowire= "byName">
+    <property name ="eid" value ="1234"> </property>
+   <property name ="ename" value ="uday"> </property>
+   <property name ="dept" value ="ai"> </property> 
+   <property name ="skillSet">
+   <set>
+   <value> Java  </value>
+   <value> c  </value>
+   <value> cpp  </value>
+   <value> JS  </value>
+   <value> Mern Stack  </value>
+   
+   </set>
+   
+   </property>
+   
+   </bean>
+	<bean id = "dept" name = "dept" class = "com.coforge.beans.Department">
+	<constructor-arg name = "deptid" value ="1"></constructor-arg>
+	<constructor-arg name = "deptname" value ="IT"></constructor-arg>
+	<constructor-arg name = "location" value ="HYD"></constructor-arg>
+	</bean>
+</beans>
