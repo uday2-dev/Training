@@ -1,0 +1,9 @@
+com\coforg\dao\package-info.class
+com\coforge\coforge\App.class
+com\coforge\Util\HibernateUtil.class
+com\coforg\dao\AuthorDao.class
+com\coforge\Util\package-info.class
+com\coforg\entities\Author.class
+com\coforg\dao\BookDao.class
+com\coforg\entities\Book.class
+com\coforg\entities\package-info.class
